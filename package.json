@@ -1,0 +1,22 @@
+{
+  "name": "express-started",
+  "version": "1.0.0",
+  "description": "express 学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/my-nodejs-practice/express-started.git"
+  },
+  "author": "lizhigao <lizhigao1231@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/my-nodejs-practice/express-started/issues"
+  },
+  "homepage": "https://github.com/my-nodejs-practice/express-started#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
